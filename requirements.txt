@@ -1,0 +1,7 @@
+pandas
+coverage
+pdoc
+flake8
+pylint
+matplotlib
+scipy
